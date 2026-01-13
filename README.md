@@ -1,16 +1,21 @@
 
 **Hello, I'm Shalu Gupta**
+
 A passionate **Full Stack Developer**
 
 Email me ✉️**shalugupta15078@gmail.com** For Collaboration/Project or Anything else.
 
  **I’m currently working on:** FPO Project
+ 
  **I’m currently learning:** Java Full Stack
+ 
  **I’m looking to collaborate on:** Deployment of AI in Agriculture
+ 
  **Ask me about:** Collaboration, Tech Support
+ 
  **How to reach me:shalugupta15078@gmail**
+ 
  **Pronouns**: Pramod Kumar Singh
- Fun fact: I Love Tech and Tech Loves Me
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shalu_rauniyar158) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shalugupta15078@gmail.com) 
 
